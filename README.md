@@ -50,7 +50,7 @@ O modelo de Regressão Logística conseguiu prever a inadimplência com uma boa 
 
 2. Instale as dependências:
    ```bash
-`pip install -r requirements.txt`
+   pip install -r requirements.txt
 
 3. Execute o notebook ou script principal para visualizar a análise completa e os resultados.
 
